@@ -1,0 +1,12 @@
+.box-container {
+    display: flex;
+    justify-content: space-around;
+    background: blue;
+    color: red;
+    width: 100%;
+}
+
+
+.box-container p {
+
+}
